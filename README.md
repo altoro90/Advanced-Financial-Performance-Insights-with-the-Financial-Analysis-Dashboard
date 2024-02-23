@@ -1,0 +1,2 @@
+# Advanced-Financial-Performance-Insights-with-the-Financial-Analysis-Dashboard
+The "Financial Analysis Dashboard" developed in Power BI offers a comprehensive overview of a company's financial health and performance across multiple dimensions. It is meticulously designed to provide insightful analysis into various financial metrics, including total and average revenue by region, country, store, and product
